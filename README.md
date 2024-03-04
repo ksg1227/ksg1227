@@ -1,4 +1,7 @@
+<div align=center>
+ 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=166660&animation=fadeIn&height=300&text=KSG_Github)
+
 
 ####  :wave: Welcome to my github profile !
 
@@ -15,6 +18,8 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg1227)](https://solved.ac/ksg1227) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksg1227&show_icons=true&theme=default)
+
+</div>
 
 
 
