@@ -1,8 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=166660&animation=fadeIn&height=300&text=KSG_Github👋)
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg1227)](https://solved.ac/ksg1227)
 
 <!--
 **ksg1227/ksg1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![header](https://capsule-render.vercel.app/api?type=slice)
+
 
 Here are some ideas to get you started:
 
