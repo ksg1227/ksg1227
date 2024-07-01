@@ -10,9 +10,6 @@
 ####  :clipboard: used as the main
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 
-####  :clipboard: used at least once
- <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
 <br/>
 <br/>
 
