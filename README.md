@@ -8,7 +8,7 @@
 <br/>
 
 ####  :clipboard: used as the main
- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+ ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <br/>
 <br/>
