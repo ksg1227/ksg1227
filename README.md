@@ -12,13 +12,6 @@
 
 <br/>
 
-### 📈 STATS
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg1227)](https://solved.ac/ksg1227) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksg1227&show_icons=true&theme=default)
-
-<br/>
-<br/>
-
 ### 🏆 ACHIEVEMENTS
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ksg1227&theme=dracula&row=1&column=6&margin-w=15" alt="Trophies" />
