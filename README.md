@@ -17,11 +17,11 @@
 ## ⭐️ Experience
 |Period|Activity|Organization|
 |:-:|---|---|
-|2020.03. ~ 2026.02|컴퓨터공학부 재학|[건국대학교]([http://imc.sejong.ac.kr/](https://cse.konkuk.ac.kr/cse/9948/subview.do))|
-|2025.02. ~ 2026.02|KUIT 서버 튜터 & 파트장|[건국대학교 기획/개발 동아리 KUIT](https://github.com/Konkuk-KUIT)|
-|2025.04. ~ 2025.10|한이음 드림업 멘티|[과학기술정보통신부 주최 ICT 인재 양성 프로그램](https://www.hanium.or.kr/portal/index.do)|
-|2025.09. ~ ing|GDGoC 건국대학교 25-26 Member|[Google Developer Groups on Campus 건국대학교](https://github.com/gdsc-konkuk)|
-|2026.01. ~ ing|삼성청년 SW·AI 아카데미 15기 (서울 캠퍼스)|[삼성청년 SW·AI 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)|
+|2020.03 ~ 2026.02|컴퓨터공학부 재학|[건국대학교]([http://imc.sejong.ac.kr/](https://cse.konkuk.ac.kr/cse/9948/subview.do))|
+|2025.02 ~ 2026.02|KUIT 서버 튜터 & 파트장|[건국대학교 기획/개발 동아리 KUIT](https://github.com/Konkuk-KUIT)|
+|2025.04 ~ 2025.10|한이음 드림업 멘티|[과학기술정보통신부 주최 ICT 인재 양성 프로그램](https://www.hanium.or.kr/portal/index.do)|
+|2025.09 ~ ing|GDGoC 건국대학교 25-26 Member|[Google Developer Groups on Campus 건국대학교](https://github.com/gdsc-konkuk)|
+|2026.01 ~ ing|삼성청년 SW·AI 아카데미 15기 (서울 캠퍼스)|[삼성청년 SW·AI 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)|
 <br>
 
 <div align=left><h2>📶 Stats</h2>
