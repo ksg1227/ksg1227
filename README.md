@@ -24,7 +24,7 @@
 |2026.01. ~ ing|삼성청년 SW·AI 아카데미 15기 (서울 캠퍼스)|[삼성청년 SW·AI 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)|
 <br>
 
-<div align=left><h2>📶 My Stats</h2>
+<div align=left><h2>📶 Stats</h2>
  
 [![My GitHub stats](https://github-readme-stats-topaz-omega-14.vercel.app/api?username=ksg1227)](https://github-readme-stats-topaz-omega-14.vercel)
 
