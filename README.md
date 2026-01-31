@@ -21,7 +21,7 @@
 |2025.02 ~ 2026.02|KUIT 서버 튜터 & 파트장|[건국대학교 기획/개발 동아리 KUIT](https://github.com/Konkuk-KUIT)|
 |2025.04 ~ 2025.10|한이음 드림업 멘티|[과학기술정보통신부 주최 ICT∙SW 인재 양성 프로그램 한이음 드림업](https://www.hanium.or.kr/portal/index.do)|
 |2025.09 ~ 2026.09|GDGoC 건국대학교 25-26 Member|Google Developer Groups on Campus 건국대학교|
-|2026.01 ~ 진행중|삼성청년 SW·AI 아카데미 15기 (서울 캠퍼스)|[삼성청년 SW·AI 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)|
+|2026.01 ~ 진행중|삼성청년 SW·AI 아카데미 15기 (서울 캠퍼스)|[삼성청년 SW∙AI 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)|
 <br>
 
 <div align=left><h2>📶 Stats</h2>
